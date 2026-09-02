@@ -13,4 +13,4 @@ I am self taught Data Analyst and trying build impactful projects in Excel, Pyth
 
 # My Projects
 - [Walmart Sales Analysis](https://github.com/keerthibk3112/Walmart-Sales-Analysis)
--[Customer Churn Prediction]()
+-[Customer Churn Prediction](https://github.com/keerthibk3112/Customer-Churn-Prediction)
