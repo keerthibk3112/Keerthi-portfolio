@@ -16,4 +16,4 @@ I am self taught Data Analyst and trying build impactful projects in Excel, Pyth
 - [Customer Churn Prediction](https://github.com/keerthibk3112/Customer-Churn-Prediction)
 
 # Let's connect
-- [Linledin](https://www.linkedin.com/in/keerthi-bk-b26a00271/)
+- [Linkedin](https://www.linkedin.com/in/keerthi-bk-b26a00271/)
