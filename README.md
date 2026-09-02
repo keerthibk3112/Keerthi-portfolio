@@ -12,4 +12,5 @@ I am self taught Data Analyst and trying build impactful projects in Excel, Pyth
 - Jupyter Notebook
 
 # My Projects
-- [Walmart Sales Analysis](....)
+- [Walmart Sales Analysis](https://github.com/keerthibk3112/Walmart-Sales-Analysis)
+-[Customer Churn Prediction]()
